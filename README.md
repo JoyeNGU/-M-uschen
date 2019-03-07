@@ -2,12 +2,12 @@
 # Mäuschen
 给小宝贝的情书
 
-My love letter to Oranssz.
+My love letter to Mäuschen.
 你若有情，吾必生死相依
 This project is for my girl friend as a gift for Valentine's Day. It is based on <a>http://love.hackerzhou.me</a>
 <h2>Some noticable changes</h2>
 <ul>
-    <li><b>Implement responsive website design,especially optimized for my girlfriend's iPhone 6s</b></li>
+    <li><b>Implement responsive website design,especially optimized for my girlfriend's iPhone 8p</b></li>
     <li>Rewrite some animation logic, making animations better express the feeling</li>
     <li>Add background music</li>
     <li>Add paper-folding effect written by myself</li>
@@ -18,7 +18,7 @@ This project is for my girl friend as a gift for Valentine's Day. It is based on
 </ul>
 Thanks hackerzhou for his splendid code.
 
-<p>这个项目是基于 <a>http://love.hackerzhou.me</a> 的开发，作为给女票的情人节礼物</p>
+<p>这个项目是基于 <a>http://love.hackerzhou.me</a> 的开发，作为给女票的生日礼物</p>
 <h2>主要修改有</h2>
 <ul>
     <li><b>增加了响应式，因为妹子的手机是iPhone 8，所以针对这个型号的手机进行了优化</b></li>
